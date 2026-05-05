@@ -1,4 +1,4 @@
-# OpenSCAD Portfolio — Computational CAD Engineer
+# OpenSCAD — Computational CAD Engineer
 
 ### Computational CAD Engineer (OpenSCAD) 
 
