@@ -1,7 +1,7 @@
 // ============================================================
 //  PROJECT 01 — Parametric Bolt & Nut Generator
 //  Portfolio Project for: Computational CAD Engineer (OpenSCAD)
-//  Author: George
+//  Author: George Onwuemezie
 // ============================================================
 //
 //  SKILLS DEMONSTRATE
