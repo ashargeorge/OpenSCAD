@@ -1,10 +1,10 @@
 // ============================================================
 //  PROJECT 09 — 3D Shapes from 2D Shadows
 //  Portfolio Project for: Computational CAD Engineer (OpenSCAD)
-//  Author: George
+//  Author: George Onwuemezie
 // ============================================================
 //
-//  JD SKILLS DEMONSTRATED:
+//  SKILLS DEMONSTRATED:
 //  ✔ 3D from 2D Shadows     — CORE TECHNIQUE: intersecting
 //                             orthogonal extrusions of 2D silhouettes
 //                             reconstructs the 3D solid whose shadows
