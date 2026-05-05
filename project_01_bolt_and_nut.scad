@@ -4,7 +4,7 @@
 //  Author: George
 // ============================================================
 //
-//  JD SKILLS DEMONSTRATED:
+//  SKILLS DEMONSTRATE
 //  ✔ Syntax                 — clean, readable OpenSCAD code structure
 //  ✔ Constants & Operators  — math-driven dimensions throughout
 //  ✔ Special Variables      — $fn for smooth circular geometry
