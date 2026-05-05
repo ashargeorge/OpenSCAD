@@ -1,10 +1,10 @@
 // ============================================================
 //  PROJECT 03 — Mechanical Gear System
 //  Portfolio Project for: Computational CAD Engineer (OpenSCAD)
-//  Author: George
+//  Author: George Onwuemezie
 // ============================================================
 //
-//  JD SKILLS DEMONSTRATED:
+//  SKILLS DEMONSTRATED:
 //  ✔ List Comprehensions    — involute tooth points generated via comprehension
 //  ✔ Flow Control           — for loops, if/else, conditional rendering
 //  ✔ Boolean Operations     — difference(), union(), intersection()
