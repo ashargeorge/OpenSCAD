@@ -1,10 +1,10 @@
 // ============================================================
 //  PROJECT 04 — Architectural Building Block Set
 //  Portfolio Project for: Computational CAD Engineer (OpenSCAD)
-//  Author: George
+//  Author: George Onwuemezie
 // ============================================================
 //
-//  JD SKILLS DEMONSTRATED:
+//  SKILLS DEMONSTRATED:
 //  ✔ Modules & Nesting      — deeply nested reusable components
 //  ✔ Boolean Operations     — difference(), union(), intersection()
 //  ✔ Flow Control           — for loops, if/else, nested conditions
