@@ -1,10 +1,10 @@
 // ============================================================
 //  PROJECT 02 — Geometric Lampshade
 //  Portfolio Project for: Computational CAD Engineer (OpenSCAD)
-//  Author: George
+//  Author: George Onwuemezie
 // ============================================================
 //
-//  JD SKILLS DEMONSTRATED:
+//  SKILLS DEMONSTRATED:
 //  ✔ 2D Objects             — polygon(), circle(), square()
 //  ✔ 3D Objects             — cylinder(), sphere() as base primitives
 //  ✔ linear_extrude         — 2D profile extruded with twist into 3D
