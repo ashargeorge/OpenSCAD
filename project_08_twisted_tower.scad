@@ -1,10 +1,10 @@
 // ============================================================
 //  PROJECT 08 — Twisted Tower Collection
 //  Portfolio Project for: Computational CAD Engineer (OpenSCAD)
-//  Author: George
+//  Author: George Onwuemezie
 // ============================================================
 //
-//  JD SKILLS DEMONSTRATED:
+//  SKILLS DEMONSTRATED:
 //  ✔ linear_extrude + twist  — primary form-building technique,
 //                              floor profiles twisted as they rise
 //  ✔ rotate_extrude          — curved balconies, base ring, crown
