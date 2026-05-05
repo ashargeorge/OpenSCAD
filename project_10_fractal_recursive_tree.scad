@@ -1,10 +1,10 @@
 // ============================================================
 //  PROJECT 10 — Fractal Recursive Tree & L-System Collection
 //  Portfolio Project for: Computational CAD Engineer (OpenSCAD)
-//  Author: George
+//  Author: George Onwuemezie
 // ============================================================
 //
-//  JD SKILLS DEMONSTRATED:
+//  SKILLS DEMONSTRATED:
 //  ✔ Flow Control           — recursion, for loops, if/else,
 //                             termination conditions
 //  ✔ Special Variables      — $fn, $fa, $fs — plus recursive
