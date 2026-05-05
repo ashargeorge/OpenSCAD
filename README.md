@@ -18,7 +18,7 @@ reviewers to verify coverage.
 
 ## Quick Reference — Skills Coverage
 
-| JD Requirement                    | Projects Covering It   |
+| Requirement                       | Projects Covering It   |
 | --------------------------------- | ---------------------- |
 | OpenSCAD Syntax                   | All projects           |
 | Constants & Operators             | 01, 02, 03, 05, 08     |
