@@ -1,10 +1,10 @@
 // ============================================================
 //  PROJECT 05 — Organic Vase Collection
 //  Portfolio Project for: Computational CAD Engineer (OpenSCAD)
-//  Author: George
+//  Author: George Onwuemezie
 // ============================================================
 //
-//  JD SKILLS DEMONSTRATED:
+//  SKILLS DEMONSTRATED:
 //  ✔ minkowski()            — core smoothing & form-building technique
 //  ✔ hull()                 — convex hull bridging between shapes
 //  ✔ Special Variables      — $fn, $fs, $fa for resolution control
