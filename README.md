@@ -1,6 +1,6 @@
 # OpenSCAD Portfolio — Computational CAD Engineer
 
-### Prepared for: micro1 — Computational CAD Engineer (OpenSCAD) Role
+### Computational CAD Engineer (OpenSCAD) 
 
 ---
 
@@ -11,13 +11,12 @@ full proficiency in every skill listed in the micro1 Computational CAD Engineer
 job description. Each project is a standalone `.scad` file — fully parametric,
 heavily commented, and structured to show both technical depth and code clarity.
 
-Every project maps explicitly to one or more JD requirements. Comments inside
-each file label which JD skill each section demonstrates, making it easy for
+Comments inside each file label which skill each section demonstrates, making it easy for
 reviewers to verify coverage.
 
 ---
 
-## Quick Reference — JD Skills Coverage
+## Quick Reference — Skills Coverage
 
 | JD Requirement                    | Projects Covering It   |
 | --------------------------------- | ---------------------- |
@@ -54,7 +53,7 @@ A fully parametric fastener system modelling an M8 bolt, matching nut, and
 washer. Change `bolt_diameter` at the top of the file and every dimension —
 thread pitch, head size, nut clearance — updates automatically.
 
-**JD Skills Demonstrated:**
+**Skills Demonstrated:**
 
 - `Syntax` — clean, readable module structure throughout
 - `Constants & Operators` — all dimensions derived mathematically from `bolt_diameter`
@@ -88,7 +87,7 @@ The main body is a `rotate_extrude` of a polygon silhouette. The base collar
 uses `linear_extrude` with twist. The rim detail is a torus built from
 `rotate_extrude` of an offset circle.
 
-**JD Skills Demonstrated:**
+**Skills Demonstrated:**
 
 - `rotate_extrude` — lampshade body swept 360° from 2D polygon profile
 - `linear_extrude with twist` — base collar spirals as it rises
@@ -121,7 +120,7 @@ A complete gear system with a large spur gear, meshing pinion gear, linear
 rack, and axles. All gear teeth are mathematically correct involute profiles
 generated entirely from list comprehensions — no manual drawing.
 
-**JD Skills Demonstrated:**
+**Skills Demonstrated:**
 
 - `List Comprehensions` — both tooth flanks generated via `[for (i=[...]) let(...) [x,y]]`
 - `Flow Control` — `for` loops place every tooth, spoke, and rack tooth
@@ -155,7 +154,7 @@ A modular architectural system with walls, windows, arched doors, fluted
 columns, and a gabled roof. The entire facade layout is generated from a
 nested list comprehension — geometry driven by data.
 
-**JD Skills Demonstrated:**
+**Skills Demonstrated:**
 
 - `Modules & Nesting` — `building` → `facade_wall` → `window_opening` → `arched_door` deep hierarchy
 - `Lists` — facade layout stored as `[[bay, floor, has_window, has_door], ...]`
@@ -189,7 +188,7 @@ for smooth rounded forms, `hull()` for tapered bridging, and `rotate_extrude`
 of a sculpted polygon for a classical profile. Set `vase_style = 0` to render
 all three side by side.
 
-**JD Skills Demonstrated:**
+**Skills Demonstrated:**
 
 - `minkowski()` — smooths a tapered hull form into an organic rounded vase
 - `hull()` — bridges stacked cylinders at different heights and radii into a smooth taper
@@ -225,7 +224,7 @@ elevations. This directly demonstrates the JD requirement: _"Build up 3D
 shapes from 2D shadows"_ — each contour is the 2D shadow of the terrain at
 that height, extruded to reconstruct the 3D surface.
 
-**JD Skills Demonstrated:**
+**Skills Demonstrated:**
 
 - `3D from 2D Shadows` — 8 contour polygons extruded and stacked = full 3D terrain
 - `linear_extrude` — every terrain layer is a `linear_extrude` of a `polygon()`
@@ -261,7 +260,7 @@ buildings, parks, and a central landmark are all computed procedurally using
 list comprehensions and deterministic randomness. Change `city_seed` and a
 completely different city is produced.
 
-**JD Skills Demonstrated:**
+**Skills Demonstrated:**
 
 - `List Comprehensions` — nested `[for (col=...) for (row=...) [...]]` generates the full block grid
 - `Lists` — `gear_train`-style building config list; structured data driving geometry
@@ -297,7 +296,7 @@ differently: uniform twist (Turning Torso), progressive twist (Shanghai Tower),
 and faceted polygon twist (Cayan Tower). All four modifier characters are fully
 documented with practical use cases.
 
-**JD Skills Demonstrated:**
+**Skills Demonstrated:**
 
 - `linear_extrude with twist` — three distinct applications in one file
 - `rotate_extrude` — balcony rails, crown observation ring, antenna dish
@@ -333,7 +332,7 @@ Four objects reconstructed from their 2D orthographic shadow projections using
 technique used in CT scanning, computer vision, and AI 3D training data
 generation.
 
-**JD Skills Demonstrated:**
+**Skills Demonstrated:**
 
 - `intersection()` — three orthogonal extruded slabs intersected = 3D solid
 - `linear_extrude` — every shadow projection extruded through space
@@ -369,7 +368,7 @@ a binary fractal tree, a wind-swept ternary tree with list-driven branch
 angles, and a full organic tree with leaf clusters, root flare, and bark
 texture.
 
-**JD Skills Demonstrated:**
+**Skills Demonstrated:**
 
 - `Recursion` — modules calling themselves with decremented depth parameter
 - `Flow Control` — `if/else` termination conditions; `for` loops inside recursive modules
