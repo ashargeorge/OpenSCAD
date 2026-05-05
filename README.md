@@ -7,12 +7,10 @@
 ## About This Portfolio
 
 This portfolio contains 10 original OpenSCAD projects built to demonstrate
-full proficiency in every skill listed in the micro1 Computational CAD Engineer
-job description. Each project is a standalone `.scad` file — fully parametric,
+full proficiency in Computational CAD Engineering. Each project is a standalone `.scad` file — fully parametric,
 heavily commented, and structured to show both technical depth and code clarity.
 
-Comments inside each file label which skill each section demonstrates, making it easy for
-reviewers to verify coverage.
+Comments inside each file label which skill each section demonstrates.
 
 ---
 
