@@ -1,7 +1,7 @@
 // ============================================================
 //  PROJECT 07 — Procedural City Generator
 //  Portfolio Project for: Computational CAD Engineer (OpenSCAD)
-//  Author: George
+//  Author: George Onwuemezie
 // ============================================================
 //
 //  JD SKILLS DEMONSTRATED:
