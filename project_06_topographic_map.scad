@@ -1,10 +1,10 @@
 // ============================================================
 //  PROJECT 06 — 3D Topographic Map from 2D Contours
 //  Portfolio Project for: Computational CAD Engineer (OpenSCAD)
-//  Author: George
+//  Author: George Onwuemezie
 // ============================================================
 //
-//  JD SKILLS DEMONSTRATED:
+//  SKILLS DEMONSTRATED:
 //  ✔ 3D from 2D Shadows     — DIRECTLY answers JD requirement:
 //                             "Build up 3D shapes from 2D shadows"
 //                             Each contour is a 2D polygon extruded
